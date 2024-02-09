@@ -1,0 +1,21 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learning react from Akshay Saini teacher",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirdousulHakh-O01/learning-react.git"
+  },
+  "author": "Firdous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FirdousulHakh-O01/learning-react/issues"
+  },
+  "homepage": "https://github.com/FirdousulHakh-O01/learning-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
